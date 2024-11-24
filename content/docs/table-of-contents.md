@@ -22,9 +22,10 @@ toc: true
 
 ### **Main Sections**
 
-- [**Introduction**](/docs/dlvr/intro/)
-- [**Preface**](/docs/dlvr/preface/)
-- [**How to Use**](/docs/dlvr/how-to-use/)
+- [**Introduction**](/docs/intro/)
+- [**Preface**](/docs/preface/)
+- [**Foreword**](/docs/foreword/)
+- [**Foreword**](/docs/foreword-1/)
 
 ---
 
@@ -61,6 +62,9 @@ toc: true
 - [Chapter 19 - Scalable Deep Learning and Distributed Training](/docs/part-iii/chapter-19/)
 - [Chapter 20 - Building Large Language Models in Rust](/docs/part-iii/chapter-20/)
 - [Chapter 21 - Emerging Trends and Research Frontiers](/docs/part-iii/chapter-21/)
+
+### **Closing**
+- [**Closing Remark**](/docs/closing-remark/)
 
 ---
 ### **Structure of DLVR Book**
