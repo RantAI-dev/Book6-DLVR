@@ -1,6 +1,6 @@
 ---
 weight: 3000
-title: "Chapter 25"
+title: "Chapter 19"
 description: "Scalable Deep Learning and Distributed Training"
 icon: "article"
 date: "2024-11-24T11:37:39.861273+07:00"

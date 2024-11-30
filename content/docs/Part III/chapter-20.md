@@ -1,6 +1,6 @@
 ---
 weight: 3100
-title: "Chapter 29"
+title: "Chapter 20"
 description: "Building Large Language Model in Rust"
 icon: "article"
 date: "2024-11-24T11:37:39.900544+07:00"
