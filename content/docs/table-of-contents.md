@@ -22,7 +22,7 @@ toc: true
 
 ### **Main Sections**
 
-- [**Introduction**](/docs/dlvr/intro/)
+- [**Introduction**](/docs/dlvr/deep-learning-via-rust/)
 - [**Preface**](/docs/dlvr/preface/)
 - [**How to Use**](/docs/dlvr/how-to-use/)
 

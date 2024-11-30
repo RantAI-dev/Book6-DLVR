@@ -1,6 +1,6 @@
 ---
 weight: 3200
-title: "Chapter 30"
+title: "Chapter 21"
 description: "Emerging Trends and Research Frontiers"
 icon: "article"
 date: "2024-11-24T11:37:40.000468+07:00"
